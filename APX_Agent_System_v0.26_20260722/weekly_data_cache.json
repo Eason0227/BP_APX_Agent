@@ -1,0 +1,386 @@
+{
+  "amd_weekly": {
+    "week_key": "2026-W25",
+    "updated_at": "2026-06-16T18:04:26.252055",
+    "data": [
+      {
+        "Week": "W14",
+        "Die Qty": 420.0,
+        "1P1M Yield": 95.48,
+        "Particle Yield": 97.14
+      },
+      {
+        "Week": "W15",
+        "Die Qty": 336.0,
+        "1P1M Yield": 100.0,
+        "Particle Yield": 100.0
+      },
+      {
+        "Week": "W16",
+        "Die Qty": 21.0,
+        "1P1M Yield": 100.0,
+        "Particle Yield": 100.0
+      },
+      {
+        "Week": "W17",
+        "Die Qty": 336.0,
+        "1P1M Yield": 97.62,
+        "Particle Yield": 99.7
+      },
+      {
+        "Week": "W18",
+        "Die Qty": 1764.0,
+        "1P1M Yield": 98.92,
+        "Particle Yield": 99.66
+      },
+      {
+        "Week": "W19",
+        "Die Qty": 2100.0,
+        "1P1M Yield": 99.33,
+        "Particle Yield": 99.57
+      },
+      {
+        "Week": "W20",
+        "Die Qty": 2667.0,
+        "1P1M Yield": 98.76,
+        "Particle Yield": 98.95
+      },
+      {
+        "Week": "W21",
+        "Die Qty": 3801.0,
+        "1P1M Yield": 99.42,
+        "Particle Yield": 99.53
+      },
+      {
+        "Week": "W22",
+        "Die Qty": 6090.0,
+        "1P1M Yield": 99.23,
+        "Particle Yield": 99.43
+      },
+      {
+        "Week": "W23",
+        "Die Qty": 462.0,
+        "1P1M Yield": 98.7,
+        "Particle Yield": 99.35
+      },
+      {
+        "Week": "W24",
+        "Die Qty": 861.0,
+        "1P1M Yield": 98.61,
+        "Particle Yield": 99.07
+      },
+      {
+        "Week": "W25",
+        "Die Qty": 1281.0,
+        "1P1M Yield": 99.22,
+        "Particle Yield": 99.61
+      }
+    ]
+  },
+  "kpi_weekly": {
+    "week_key": "2026-W34",
+    "updated_at": "2026-08-17T11:16:10.115841",
+    "data": [
+      {
+        "year": 2026,
+        "week": 19,
+        "week_label": "04/30~05/06",
+        "oos_event_count": 50,
+        "total_maintained_events": 50,
+        "delayed_maintenance_count": 2,
+        "over_24h_unprocessed_count": 0,
+        "compliant_count": 48,
+        "compliance_rate": 0.96,
+        "Week": "W19"
+      },
+      {
+        "year": 2026,
+        "week": 20,
+        "week_label": "05/07~05/13",
+        "oos_event_count": 139,
+        "total_maintained_events": 139,
+        "delayed_maintenance_count": 0,
+        "over_24h_unprocessed_count": 0,
+        "compliant_count": 139,
+        "compliance_rate": 1.0,
+        "Week": "W20"
+      },
+      {
+        "year": 2026,
+        "week": 21,
+        "week_label": "05/14~05/20",
+        "oos_event_count": 178,
+        "total_maintained_events": 178,
+        "delayed_maintenance_count": 4,
+        "over_24h_unprocessed_count": 2,
+        "compliant_count": 172,
+        "compliance_rate": 0.9663,
+        "Week": "W21"
+      },
+      {
+        "year": 2026,
+        "week": 22,
+        "week_label": "05/21~05/27",
+        "oos_event_count": 150,
+        "total_maintained_events": 150,
+        "delayed_maintenance_count": 2,
+        "over_24h_unprocessed_count": 1,
+        "compliant_count": 147,
+        "compliance_rate": 0.98,
+        "Week": "W22"
+      },
+      {
+        "year": 2026,
+        "week": 23,
+        "week_label": "05/28~06/03",
+        "oos_event_count": 127,
+        "total_maintained_events": 127,
+        "delayed_maintenance_count": 0,
+        "over_24h_unprocessed_count": 1,
+        "compliant_count": 126,
+        "compliance_rate": 0.9921,
+        "Week": "W23"
+      },
+      {
+        "year": 2026,
+        "week": 24,
+        "week_label": "06/04~06/10",
+        "oos_event_count": 111,
+        "total_maintained_events": 111,
+        "delayed_maintenance_count": 1,
+        "over_24h_unprocessed_count": 18,
+        "compliant_count": 92,
+        "compliance_rate": 0.8288,
+        "Week": "W24"
+      },
+      {
+        "year": 2026,
+        "week": 25,
+        "week_label": "06/11~06/17",
+        "oos_event_count": 111,
+        "total_maintained_events": 111,
+        "delayed_maintenance_count": 1,
+        "over_24h_unprocessed_count": 3,
+        "compliant_count": 107,
+        "compliance_rate": 0.964,
+        "Week": "W25"
+      },
+      {
+        "year": 2026,
+        "week": 26,
+        "week_label": "06/18~06/24",
+        "oos_event_count": 173,
+        "total_maintained_events": 173,
+        "delayed_maintenance_count": 22,
+        "over_24h_unprocessed_count": 1,
+        "compliant_count": 150,
+        "compliance_rate": 0.8671,
+        "Week": "W26"
+      },
+      {
+        "year": 2026,
+        "week": 27,
+        "week_label": "06/25~07/01",
+        "oos_event_count": 66,
+        "total_maintained_events": 66,
+        "delayed_maintenance_count": 1,
+        "over_24h_unprocessed_count": 0,
+        "compliant_count": 65,
+        "compliance_rate": 0.9848,
+        "Week": "W27"
+      },
+      {
+        "year": 2026,
+        "week": 28,
+        "week_label": "07/02~07/08",
+        "oos_event_count": 108,
+        "total_maintained_events": 108,
+        "delayed_maintenance_count": 1,
+        "over_24h_unprocessed_count": 0,
+        "compliant_count": 107,
+        "compliance_rate": 0.9907,
+        "Week": "W28"
+      },
+      {
+        "year": 2026,
+        "week": 29,
+        "week_label": "07/09~07/15",
+        "oos_event_count": 153,
+        "total_maintained_events": 153,
+        "delayed_maintenance_count": 4,
+        "over_24h_unprocessed_count": 0,
+        "compliant_count": 149,
+        "compliance_rate": 0.9739,
+        "Week": "W29"
+      },
+      {
+        "year": 2026,
+        "week": 30,
+        "week_label": "07/16~07/22",
+        "oos_event_count": 141,
+        "total_maintained_events": 141,
+        "delayed_maintenance_count": 1,
+        "over_24h_unprocessed_count": 0,
+        "compliant_count": 140,
+        "compliance_rate": 0.9929,
+        "Week": "W30"
+      },
+      {
+        "year": 2026,
+        "week": 31,
+        "week_label": "07/23~07/29",
+        "oos_event_count": 174,
+        "total_maintained_events": 174,
+        "delayed_maintenance_count": 2,
+        "over_24h_unprocessed_count": 1,
+        "compliant_count": 171,
+        "compliance_rate": 0.9828,
+        "Week": "W31"
+      },
+      {
+        "year": 2026,
+        "week": 32,
+        "week_label": "07/30~08/05",
+        "oos_event_count": 144,
+        "total_maintained_events": 144,
+        "delayed_maintenance_count": 6,
+        "over_24h_unprocessed_count": 0,
+        "compliant_count": 138,
+        "compliance_rate": 0.9583,
+        "Week": "W32"
+      },
+      {
+        "year": 2026,
+        "week": 33,
+        "week_label": "08/06~08/12",
+        "oos_event_count": 140,
+        "total_maintained_events": 140,
+        "delayed_maintenance_count": 9,
+        "over_24h_unprocessed_count": 1,
+        "compliant_count": 130,
+        "compliance_rate": 0.9286,
+        "Week": "W33"
+      },
+      {
+        "year": 2026,
+        "week": 34,
+        "week_label": "08/13~08/19",
+        "oos_event_count": 62,
+        "total_maintained_events": 62,
+        "delayed_maintenance_count": 0,
+        "over_24h_unprocessed_count": 0,
+        "compliant_count": 62,
+        "compliance_rate": 1.0,
+        "Week": "W34"
+      }
+    ]
+  },
+  "amd_weekly_17w": {
+    "week_key": "2026-W34",
+    "updated_at": "2026-08-17T11:15:19.782542",
+    "data": [
+      {
+        "Week": "W16",
+        "Die Qty": 21.0,
+        "1P1M Yield": 100.0,
+        "Particle Yield": 100.0
+      },
+      {
+        "Week": "W17",
+        "Die Qty": 1596.0,
+        "1P1M Yield": 98.81,
+        "Particle Yield": 99.94
+      },
+      {
+        "Week": "W18",
+        "Die Qty": 4620.0,
+        "1P1M Yield": 99.0,
+        "Particle Yield": 99.78
+      },
+      {
+        "Week": "W19",
+        "Die Qty": 4830.0,
+        "1P1M Yield": 99.38,
+        "Particle Yield": 99.69
+      },
+      {
+        "Week": "W20",
+        "Die Qty": 4431.0,
+        "1P1M Yield": 98.98,
+        "Particle Yield": 99.16
+      },
+      {
+        "Week": "W21",
+        "Die Qty": 4935.0,
+        "1P1M Yield": 99.03,
+        "Particle Yield": 99.35
+      },
+      {
+        "Week": "W22",
+        "Die Qty": 3654.0,
+        "1P1M Yield": 99.62,
+        "Particle Yield": 99.7
+      },
+      {
+        "Week": "W23",
+        "Die Qty": 462.0,
+        "1P1M Yield": 98.7,
+        "Particle Yield": 99.35
+      },
+      {
+        "Week": "W24",
+        "Die Qty": 1974.0,
+        "1P1M Yield": 98.43,
+        "Particle Yield": 99.39
+      },
+      {
+        "Week": "W25",
+        "Die Qty": 420.0,
+        "1P1M Yield": 99.76,
+        "Particle Yield": 100.0
+      },
+      {
+        "Week": "W26",
+        "Die Qty": 777.0,
+        "1P1M Yield": 99.74,
+        "Particle Yield": 99.87
+      },
+      {
+        "Week": "W27",
+        "Die Qty": 1722.0,
+        "1P1M Yield": 99.59,
+        "Particle Yield": 100.0
+      },
+      {
+        "Week": "W28",
+        "Die Qty": 2268.0,
+        "1P1M Yield": 99.34,
+        "Particle Yield": 100.0
+      },
+      {
+        "Week": "W29",
+        "Die Qty": 7318.0,
+        "1P1M Yield": 99.59,
+        "Particle Yield": 99.93
+      },
+      {
+        "Week": "W30",
+        "Die Qty": 20315.0,
+        "1P1M Yield": 99.66,
+        "Particle Yield": 99.93
+      },
+      {
+        "Week": "W31",
+        "Die Qty": 67791.0,
+        "1P1M Yield": 99.77,
+        "Particle Yield": 99.88
+      },
+      {
+        "Week": "W32",
+        "Die Qty": 17298.0,
+        "1P1M Yield": 99.87,
+        "Particle Yield": 99.92
+      }
+    ]
+  }
+}
