@@ -1,0 +1,1887 @@
+{
+  "report_date": "2026-07-22",
+  "data_range": "2026-07-09 ~ 2026-07-21",
+  "total_records": 269,
+  "weeks_covered": [
+    "2026-W28",
+    "2026-W29",
+    "2026-W30"
+  ],
+  "weekly_trend": [
+    {
+      "YEAR_WEEK": "2026-W28",
+      "total": 90,
+      "success": 65,
+      "success_rate": 72.2,
+      "worsened": 20,
+      "worsened_rate": 22.2,
+      "avg_diff": -0.0541,
+      "avg_diff_success": -0.0981,
+      "avg_pi_before": 0.2564,
+      "avg_pi_after": 0.2021,
+      "avg_response_hours": 16.6,
+      "unique_Machines": 39,
+      "unique_psn": 74,
+      "best_improvement": -0.37,
+      "best_psn": "B1_DECM_02#LP",
+      "success_rate_wow": NaN,
+      "total_wow": NaN
+    },
+    {
+      "YEAR_WEEK": "2026-W29",
+      "total": 134,
+      "success": 94,
+      "success_rate": 70.1,
+      "worsened": 30,
+      "worsened_rate": 22.4,
+      "avg_diff": -0.0605,
+      "avg_diff_success": -0.1151,
+      "avg_pi_before": 0.2892,
+      "avg_pi_after": 0.2287,
+      "avg_response_hours": 12.2,
+      "unique_Machines": 48,
+      "unique_psn": 93,
+      "best_improvement": -0.536,
+      "best_psn": "B1_SCOP_08#ST",
+      "success_rate_wow": -2.1,
+      "total_wow": 44.0
+    },
+    {
+      "YEAR_WEEK": "2026-W30",
+      "total": 45,
+      "success": 30,
+      "success_rate": 66.7,
+      "worsened": 9,
+      "worsened_rate": 20.0,
+      "avg_diff": -0.059,
+      "avg_diff_success": -0.1013,
+      "avg_pi_before": 0.2756,
+      "avg_pi_after": 0.2165,
+      "avg_response_hours": 10.5,
+      "unique_Machines": 29,
+      "unique_psn": 43,
+      "best_improvement": -0.275,
+      "best_psn": "B1_DECM_02#LP",
+      "success_rate_wow": -3.4,
+      "total_wow": -89.0
+    }
+  ],
+  "weekly_details": {
+    "2026-W28": {
+      "kpi": {
+        "total_maintenance": 90,
+        "success_count": 65,
+        "success_rate": 72.2,
+        "worsened_count": 20,
+        "worsened_rate": 22.2,
+        "avg_diff_all": -0.0541,
+        "avg_response_hours": 16.6,
+        "avg_diff_success": -0.0981,
+        "best_improvement": -0.37,
+        "best_psn": "B1_DECM_02#LP"
+      },
+      "user_performance": [
+        {
+          "MAINTENANCE_USER": "K20835",
+          "total": 2,
+          "success": 2,
+          "avg_diff": -0.1235,
+          "success_rate": 100.0
+        },
+        {
+          "MAINTENANCE_USER": "K21152",
+          "total": 2,
+          "success": 2,
+          "avg_diff": -0.077,
+          "success_rate": 100.0
+        },
+        {
+          "MAINTENANCE_USER": "K22235",
+          "total": 1,
+          "success": 1,
+          "avg_diff": -0.067,
+          "success_rate": 100.0
+        },
+        {
+          "MAINTENANCE_USER": "K25080",
+          "total": 1,
+          "success": 1,
+          "avg_diff": -0.094,
+          "success_rate": 100.0
+        },
+        {
+          "MAINTENANCE_USER": "F8952",
+          "total": 13,
+          "success": 12,
+          "avg_diff": -0.0792,
+          "success_rate": 92.3
+        },
+        {
+          "MAINTENANCE_USER": "K22661",
+          "total": 5,
+          "success": 4,
+          "avg_diff": -0.0402,
+          "success_rate": 80.0
+        },
+        {
+          "MAINTENANCE_USER": "G1337",
+          "total": 18,
+          "success": 14,
+          "avg_diff": -0.0613,
+          "success_rate": 77.8
+        },
+        {
+          "MAINTENANCE_USER": "K22818",
+          "total": 8,
+          "success": 6,
+          "avg_diff": -0.103,
+          "success_rate": 75.0
+        },
+        {
+          "MAINTENANCE_USER": "K02190",
+          "total": 15,
+          "success": 10,
+          "avg_diff": -0.0661,
+          "success_rate": 66.7
+        },
+        {
+          "MAINTENANCE_USER": "K21705",
+          "total": 3,
+          "success": 2,
+          "avg_diff": 0.009,
+          "success_rate": 66.7
+        },
+        {
+          "MAINTENANCE_USER": "C4290",
+          "total": 12,
+          "success": 7,
+          "avg_diff": 0.0039,
+          "success_rate": 58.3
+        },
+        {
+          "MAINTENANCE_USER": "K22316",
+          "total": 4,
+          "success": 2,
+          "avg_diff": -0.0713,
+          "success_rate": 50.0
+        },
+        {
+          "MAINTENANCE_USER": "K24797",
+          "total": 2,
+          "success": 1,
+          "avg_diff": -0.0025,
+          "success_rate": 50.0
+        },
+        {
+          "MAINTENANCE_USER": "K24461",
+          "total": 3,
+          "success": 1,
+          "avg_diff": 0.0133,
+          "success_rate": 33.3
+        },
+        {
+          "MAINTENANCE_USER": "K24766",
+          "total": 1,
+          "success": 0,
+          "avg_diff": 0.019,
+          "success_rate": 0.0
+        }
+      ],
+      "method_effectiveness": [
+        {
+          "MAINTENANCE_CONTENT": " 用IPA+無塵布清潔Paticle sensor周圍",
+          "total": 1,
+          "success": 1,
+          "avg_diff": -0.098,
+          "success_rate": 100.0
+        },
+        {
+          "MAINTENANCE_CONTENT": "Clean item : IPA clean and removed sensor, inverted it for 5min\ntools: partical measure tools AERO \nmeasure value\n0.3μm:0\n0.5μm:0\n5.0μm:0",
+          "total": 1,
+          "success": 1,
+          "avg_diff": -0.076,
+          "success_rate": 100.0
+        },
+        {
+          "MAINTENANCE_CONTENT": "IPA清潔\nPartical 0.5um : 2\n                     5um : 0",
+          "total": 3,
+          "success": 3,
+          "avg_diff": -0.1353,
+          "success_rate": 100.0
+        },
+        {
+          "MAINTENANCE_CONTENT": "PM",
+          "total": 9,
+          "success": 8,
+          "avg_diff": -0.0941,
+          "success_rate": 88.9
+        },
+        {
+          "MAINTENANCE_CONTENT": "用IPA+無塵布清潔Paticle sensor周圍",
+          "total": 51,
+          "success": 38,
+          "avg_diff": -0.0436,
+          "success_rate": 74.5
+        },
+        {
+          "MAINTENANCE_CONTENT": "用酒精+無塵布清潔Paticle sensor周圍",
+          "total": 3,
+          "success": 2,
+          "avg_diff": 0.009,
+          "success_rate": 66.7
+        },
+        {
+          "MAINTENANCE_CONTENT": "Clean item : IPA clean and removed sensor, inverted it for 5min\ntools: partical measure tools AERO TRAK 9030-01   S/N:93032542012\nmeasure value\n0.3μm:0\n0.5μm:0\n5.0μm:0",
+          "total": 8,
+          "success": 5,
+          "avg_diff": -0.0911,
+          "success_rate": 62.5
+        },
+        {
+          "MAINTENANCE_CONTENT": "IPA清潔\nPartical 0.5um : 1\n                     5um : 0",
+          "total": 5,
+          "success": 3,
+          "avg_diff": -0.0548,
+          "success_rate": 60.0
+        },
+        {
+          "MAINTENANCE_CONTENT": "IPA清潔\nPartical 0.5um : 0\n                     5um : 0",
+          "total": 7,
+          "success": 4,
+          "avg_diff": -0.0444,
+          "success_rate": 57.1
+        },
+        {
+          "MAINTENANCE_CONTENT": "IPA+無塵布清潔Paticle sensor周圍",
+          "total": 1,
+          "success": 0,
+          "avg_diff": 0.069,
+          "success_rate": 0.0
+        },
+        {
+          "MAINTENANCE_CONTENT": "SETUP Clean",
+          "total": 1,
+          "success": 0,
+          "avg_diff": 0.0,
+          "success_rate": 0.0
+        }
+      ],
+      "Machine_breakdown": [
+        {
+          "Machine": "B1_COAT_04",
+          "psn_count": 5,
+          "total": 7,
+          "success": 7,
+          "avg_diff": -0.1084,
+          "avg_pi_after": 0.1133,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_COAT_06",
+          "psn_count": 6,
+          "total": 6,
+          "success": 5,
+          "avg_diff": -0.1218,
+          "avg_pi_after": 0.2995,
+          "success_rate": 83.3
+        },
+        {
+          "Machine": "B1_COAT_07",
+          "psn_count": 4,
+          "total": 5,
+          "success": 5,
+          "avg_diff": -0.0774,
+          "avg_pi_after": 0.1772,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_DEVP_01",
+          "psn_count": 5,
+          "total": 5,
+          "success": 3,
+          "avg_diff": -0.0066,
+          "avg_pi_after": 0.1806,
+          "success_rate": 60.0
+        },
+        {
+          "Machine": "B1_COAT_05",
+          "psn_count": 3,
+          "total": 4,
+          "success": 3,
+          "avg_diff": -0.0492,
+          "avg_pi_after": 0.1713,
+          "success_rate": 75.0
+        },
+        {
+          "Machine": "B1_COAT_02",
+          "psn_count": 2,
+          "total": 3,
+          "success": 2,
+          "avg_diff": -0.0263,
+          "avg_pi_after": 0.266,
+          "success_rate": 66.7
+        },
+        {
+          "Machine": "B1_AGST_01",
+          "psn_count": 2,
+          "total": 3,
+          "success": 2,
+          "avg_diff": -0.0263,
+          "avg_pi_after": 0.1457,
+          "success_rate": 66.7
+        },
+        {
+          "Machine": "B1_OVEN_01",
+          "psn_count": 2,
+          "total": 3,
+          "success": 2,
+          "avg_diff": -0.0443,
+          "avg_pi_after": 0.4087,
+          "success_rate": 66.7
+        },
+        {
+          "Machine": "B1_OVEN_03",
+          "psn_count": 2,
+          "total": 3,
+          "success": 3,
+          "avg_diff": -0.1323,
+          "avg_pi_after": 0.126,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_DEVP_03",
+          "psn_count": 3,
+          "total": 3,
+          "success": 2,
+          "avg_diff": -0.0307,
+          "avg_pi_after": 0.3817,
+          "success_rate": 66.7
+        },
+        {
+          "Machine": "B1_DEVP_04",
+          "psn_count": 3,
+          "total": 3,
+          "success": 2,
+          "avg_diff": -0.0327,
+          "avg_pi_after": 0.3417,
+          "success_rate": 66.7
+        },
+        {
+          "Machine": "B1_STEP_02",
+          "psn_count": 3,
+          "total": 3,
+          "success": 1,
+          "avg_diff": -0.034,
+          "avg_pi_after": 0.3077,
+          "success_rate": 33.3
+        },
+        {
+          "Machine": "B1_COAT_03",
+          "psn_count": 3,
+          "total": 3,
+          "success": 3,
+          "avg_diff": -0.06,
+          "avg_pi_after": 0.0843,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_DEVP_02",
+          "psn_count": 3,
+          "total": 3,
+          "success": 2,
+          "avg_diff": -0.0397,
+          "avg_pi_after": 0.3087,
+          "success_rate": 66.7
+        },
+        {
+          "Machine": "B1_AGST_10",
+          "psn_count": 1,
+          "total": 2,
+          "success": 1,
+          "avg_diff": -0.0945,
+          "avg_pi_after": 0.1675,
+          "success_rate": 50.0
+        },
+        {
+          "Machine": "B1_OVEN_02",
+          "psn_count": 1,
+          "total": 2,
+          "success": 0,
+          "avg_diff": 0.236,
+          "avg_pi_after": 0.4205,
+          "success_rate": 0.0
+        },
+        {
+          "Machine": "B1_OVEN_04",
+          "psn_count": 2,
+          "total": 2,
+          "success": 2,
+          "avg_diff": -0.0995,
+          "avg_pi_after": 0.11,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_SCOP_07",
+          "psn_count": 2,
+          "total": 2,
+          "success": 1,
+          "avg_diff": -0.0525,
+          "avg_pi_after": 0.19,
+          "success_rate": 50.0
+        },
+        {
+          "Machine": "B1_PRRM_02",
+          "psn_count": 1,
+          "total": 2,
+          "success": 2,
+          "avg_diff": -0.101,
+          "avg_pi_after": 0.0915,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_AGST_09",
+          "psn_count": 1,
+          "total": 2,
+          "success": 2,
+          "avg_diff": -0.0745,
+          "avg_pi_after": 0.1435,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_DECM_03",
+          "psn_count": 1,
+          "total": 2,
+          "success": 1,
+          "avg_diff": -0.0415,
+          "avg_pi_after": 0.1435,
+          "success_rate": 50.0
+        },
+        {
+          "Machine": "B1_ETCH_04",
+          "psn_count": 1,
+          "total": 2,
+          "success": 1,
+          "avg_diff": -0.0945,
+          "avg_pi_after": 0.146,
+          "success_rate": 50.0
+        },
+        {
+          "Machine": "B1_DECM_02",
+          "psn_count": 1,
+          "total": 2,
+          "success": 2,
+          "avg_diff": -0.223,
+          "avg_pi_after": 0.0885,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_SCOP_08",
+          "psn_count": 1,
+          "total": 2,
+          "success": 1,
+          "avg_diff": 0.023,
+          "avg_pi_after": 0.171,
+          "success_rate": 50.0
+        },
+        {
+          "Machine": "B1_STEP_04",
+          "psn_count": 2,
+          "total": 2,
+          "success": 1,
+          "avg_diff": 0.003,
+          "avg_pi_after": 0.1185,
+          "success_rate": 50.0
+        },
+        {
+          "Machine": "B1_AGST_02",
+          "psn_count": 1,
+          "total": 1,
+          "success": 0,
+          "avg_diff": 0.013,
+          "avg_pi_after": 0.163,
+          "success_rate": 0.0
+        },
+        {
+          "Machine": "B1_AGST_03",
+          "psn_count": 1,
+          "total": 1,
+          "success": 1,
+          "avg_diff": -0.107,
+          "avg_pi_after": 0.1,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_BPHI_01",
+          "psn_count": 1,
+          "total": 1,
+          "success": 1,
+          "avg_diff": -0.05,
+          "avg_pi_after": 0.203,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_AGST_11",
+          "psn_count": 1,
+          "total": 1,
+          "success": 1,
+          "avg_diff": -0.09,
+          "avg_pi_after": 0.18,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_PRRM_03",
+          "psn_count": 1,
+          "total": 1,
+          "success": 1,
+          "avg_diff": -0.032,
+          "avg_pi_after": 0.071,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_PRRM_05",
+          "psn_count": 1,
+          "total": 1,
+          "success": 0,
+          "avg_diff": 0.185,
+          "avg_pi_after": 0.367,
+          "success_rate": 0.0
+        },
+        {
+          "Machine": "B1_SCOP_03",
+          "psn_count": 1,
+          "total": 1,
+          "success": 1,
+          "avg_diff": -0.166,
+          "avg_pi_after": 0.291,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_SCOP_01",
+          "psn_count": 1,
+          "total": 1,
+          "success": 1,
+          "avg_diff": -0.074,
+          "avg_pi_after": 0.16,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_RESZ_01",
+          "psn_count": 1,
+          "total": 1,
+          "success": 1,
+          "avg_diff": -0.03,
+          "avg_pi_after": 0.063,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_REFW_01",
+          "psn_count": 1,
+          "total": 1,
+          "success": 0,
+          "avg_diff": 0.069,
+          "avg_pi_after": 0.257,
+          "success_rate": 0.0
+        },
+        {
+          "Machine": "B1_SPUT_04",
+          "psn_count": 1,
+          "total": 1,
+          "success": 0,
+          "avg_diff": 0.019,
+          "avg_pi_after": 0.186,
+          "success_rate": 0.0
+        },
+        {
+          "Machine": "B1_SCOP_09",
+          "psn_count": 1,
+          "total": 1,
+          "success": 1,
+          "avg_diff": -0.114,
+          "avg_pi_after": 0.105,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_STEP_01",
+          "psn_count": 1,
+          "total": 1,
+          "success": 1,
+          "avg_diff": -0.09,
+          "avg_pi_after": 0.117,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_WFCL_02",
+          "psn_count": 1,
+          "total": 1,
+          "success": 0,
+          "avg_diff": 0.022,
+          "avg_pi_after": 0.173,
+          "success_rate": 0.0
+        }
+      ]
+    },
+    "2026-W29": {
+      "kpi": {
+        "total_maintenance": 134,
+        "success_count": 94,
+        "success_rate": 70.1,
+        "worsened_count": 30,
+        "worsened_rate": 22.4,
+        "avg_diff_all": -0.0605,
+        "avg_response_hours": 12.2,
+        "avg_diff_success": -0.1151,
+        "best_improvement": -0.536,
+        "best_psn": "B1_SCOP_08#ST"
+      },
+      "user_performance": [
+        {
+          "MAINTENANCE_USER": "F8952",
+          "total": 7,
+          "success": 7,
+          "avg_diff": -0.1384,
+          "success_rate": 100.0
+        },
+        {
+          "MAINTENANCE_USER": "K24766",
+          "total": 1,
+          "success": 1,
+          "avg_diff": -0.051,
+          "success_rate": 100.0
+        },
+        {
+          "MAINTENANCE_USER": "K24463",
+          "total": 1,
+          "success": 1,
+          "avg_diff": -0.114,
+          "success_rate": 100.0
+        },
+        {
+          "MAINTENANCE_USER": "K22234",
+          "total": 1,
+          "success": 1,
+          "avg_diff": -0.168,
+          "success_rate": 100.0
+        },
+        {
+          "MAINTENANCE_USER": "K21249 ",
+          "total": 1,
+          "success": 1,
+          "avg_diff": -0.098,
+          "success_rate": 100.0
+        },
+        {
+          "MAINTENANCE_USER": "K21836",
+          "total": 2,
+          "success": 2,
+          "avg_diff": -0.0575,
+          "success_rate": 100.0
+        },
+        {
+          "MAINTENANCE_USER": "K21152",
+          "total": 1,
+          "success": 1,
+          "avg_diff": -0.111,
+          "success_rate": 100.0
+        },
+        {
+          "MAINTENANCE_USER": "K20628",
+          "total": 1,
+          "success": 1,
+          "avg_diff": -0.243,
+          "success_rate": 100.0
+        },
+        {
+          "MAINTENANCE_USER": "K22463",
+          "total": 3,
+          "success": 3,
+          "avg_diff": -0.0653,
+          "success_rate": 100.0
+        },
+        {
+          "MAINTENANCE_USER": "K22316",
+          "total": 7,
+          "success": 6,
+          "avg_diff": -0.1174,
+          "success_rate": 85.7
+        },
+        {
+          "MAINTENANCE_USER": "C4290",
+          "total": 5,
+          "success": 4,
+          "avg_diff": -0.0774,
+          "success_rate": 80.0
+        },
+        {
+          "MAINTENANCE_USER": "G1337",
+          "total": 8,
+          "success": 6,
+          "avg_diff": -0.0634,
+          "success_rate": 75.0
+        },
+        {
+          "MAINTENANCE_USER": "K02190",
+          "total": 37,
+          "success": 27,
+          "avg_diff": -0.063,
+          "success_rate": 73.0
+        },
+        {
+          "MAINTENANCE_USER": "K23831",
+          "total": 3,
+          "success": 2,
+          "avg_diff": -0.0787,
+          "success_rate": 66.7
+        },
+        {
+          "MAINTENANCE_USER": "D0408",
+          "total": 12,
+          "success": 8,
+          "avg_diff": -0.0778,
+          "success_rate": 66.7
+        },
+        {
+          "MAINTENANCE_USER": "G5319",
+          "total": 11,
+          "success": 7,
+          "avg_diff": -0.0566,
+          "success_rate": 63.6
+        },
+        {
+          "MAINTENANCE_USER": "K22818",
+          "total": 9,
+          "success": 5,
+          "avg_diff": -0.0607,
+          "success_rate": 55.6
+        },
+        {
+          "MAINTENANCE_USER": "K22661",
+          "total": 11,
+          "success": 6,
+          "avg_diff": 0.0236,
+          "success_rate": 54.5
+        },
+        {
+          "MAINTENANCE_USER": "K21249",
+          "total": 4,
+          "success": 2,
+          "avg_diff": 0.0292,
+          "success_rate": 50.0
+        },
+        {
+          "MAINTENANCE_USER": "K20290",
+          "total": 4,
+          "success": 2,
+          "avg_diff": -0.028,
+          "success_rate": 50.0
+        },
+        {
+          "MAINTENANCE_USER": "K24461",
+          "total": 2,
+          "success": 1,
+          "avg_diff": 0.015,
+          "success_rate": 50.0
+        },
+        {
+          "MAINTENANCE_USER": "D1004",
+          "total": 1,
+          "success": 0,
+          "avg_diff": 0.033,
+          "success_rate": 0.0
+        },
+        {
+          "MAINTENANCE_USER": "K21705",
+          "total": 1,
+          "success": 0,
+          "avg_diff": -0.013,
+          "success_rate": 0.0
+        },
+        {
+          "MAINTENANCE_USER": "K20835",
+          "total": 1,
+          "success": 0,
+          "avg_diff": 0.032,
+          "success_rate": 0.0
+        }
+      ],
+      "method_effectiveness": [
+        {
+          "MAINTENANCE_CONTENT": "Clean item : IPA clean and removed sensor, inverted it for 5min\nmeasure value\n0.5μm:0",
+          "total": 1,
+          "success": 1,
+          "avg_diff": -0.036,
+          "success_rate": 100.0
+        },
+        {
+          "MAINTENANCE_CONTENT": "用酒精+無塵布清潔paticle sensor周圍",
+          "total": 1,
+          "success": 1,
+          "avg_diff": -0.083,
+          "success_rate": 100.0
+        },
+        {
+          "MAINTENANCE_CONTENT": "使用無塵布+酒精清潔週圍",
+          "total": 3,
+          "success": 3,
+          "avg_diff": -0.2017,
+          "success_rate": 100.0
+        },
+        {
+          "MAINTENANCE_CONTENT": "用酒精+無塵布清潔Paticle sensor周圍 ",
+          "total": 1,
+          "success": 1,
+          "avg_diff": -0.536,
+          "success_rate": 100.0
+        },
+        {
+          "MAINTENANCE_CONTENT": "PM",
+          "total": 20,
+          "success": 17,
+          "avg_diff": -0.0865,
+          "success_rate": 85.0
+        },
+        {
+          "MAINTENANCE_CONTENT": "IPA清潔\nPartical 0.5um : 0\n                     5um : 0",
+          "total": 41,
+          "success": 29,
+          "avg_diff": -0.074,
+          "success_rate": 70.7
+        },
+        {
+          "MAINTENANCE_CONTENT": "IPA清潔\nPartical 0.5um : 1\n                     5um : 0",
+          "total": 13,
+          "success": 9,
+          "avg_diff": -0.0515,
+          "success_rate": 69.2
+        },
+        {
+          "MAINTENANCE_CONTENT": "用酒精+無塵布清潔Paticle sensor周圍",
+          "total": 31,
+          "success": 21,
+          "avg_diff": -0.0202,
+          "success_rate": 67.7
+        },
+        {
+          "MAINTENANCE_CONTENT": "IPA清潔\nPartical 0.5um : 2\n                     5um : 0",
+          "total": 3,
+          "success": 2,
+          "avg_diff": -0.0633,
+          "success_rate": 66.7
+        },
+        {
+          "MAINTENANCE_CONTENT": "Clean item : IPA clean and removed sensor, inverted it for 5min\ntools: partical measure tools AERO \nmeasure value\n0.3μm:0\n0.5μm:0\n5.0μm:0",
+          "total": 3,
+          "success": 2,
+          "avg_diff": -0.106,
+          "success_rate": 66.7
+        },
+        {
+          "MAINTENANCE_CONTENT": "Clean item : IPA clean and removed sensor, inverted it for 5min\ntools: partical measure tools AERO TRAK 9030-01   S/N:93032542012\nmeasure value\n0.3μm:0\n0.5μm:0\n5.0μm:0",
+          "total": 7,
+          "success": 4,
+          "avg_diff": -0.0399,
+          "success_rate": 57.1
+        },
+        {
+          "MAINTENANCE_CONTENT": "Clean item : IPA clean and removed sensor, inverted it for 5min\nmeasure value\n0.5μm:0\n5.0μm:0",
+          "total": 4,
+          "success": 2,
+          "avg_diff": 0.0137,
+          "success_rate": 50.0
+        },
+        {
+          "MAINTENANCE_CONTENT": "SETUP",
+          "total": 4,
+          "success": 2,
+          "avg_diff": -0.028,
+          "success_rate": 50.0
+        },
+        {
+          "MAINTENANCE_CONTENT": "使用IPA，無塵布清潔Particle",
+          "total": 1,
+          "success": 0,
+          "avg_diff": 0.033,
+          "success_rate": 0.0
+        },
+        {
+          "MAINTENANCE_CONTENT": "用酒精+無塵布清潔Paticle sensor周圍\n",
+          "total": 1,
+          "success": 0,
+          "avg_diff": 0.027,
+          "success_rate": 0.0
+        }
+      ],
+      "Machine_breakdown": [
+        {
+          "Machine": "B1_COAT_04",
+          "psn_count": 6,
+          "total": 8,
+          "success": 4,
+          "avg_diff": -0.0239,
+          "avg_pi_after": 0.1859,
+          "success_rate": 50.0
+        },
+        {
+          "Machine": "B1_COAT_07",
+          "psn_count": 6,
+          "total": 8,
+          "success": 5,
+          "avg_diff": 0.0497,
+          "avg_pi_after": 0.3381,
+          "success_rate": 62.5
+        },
+        {
+          "Machine": "B1_DEVP_02",
+          "psn_count": 5,
+          "total": 8,
+          "success": 6,
+          "avg_diff": -0.0648,
+          "avg_pi_after": 0.2188,
+          "success_rate": 75.0
+        },
+        {
+          "Machine": "B1_DEVP_01",
+          "psn_count": 5,
+          "total": 7,
+          "success": 7,
+          "avg_diff": -0.0751,
+          "avg_pi_after": 0.2079,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_DEVP_03",
+          "psn_count": 5,
+          "total": 7,
+          "success": 2,
+          "avg_diff": 0.0061,
+          "avg_pi_after": 0.2989,
+          "success_rate": 28.6
+        },
+        {
+          "Machine": "B1_DEVP_04",
+          "psn_count": 4,
+          "total": 5,
+          "success": 3,
+          "avg_diff": -0.0852,
+          "avg_pi_after": 0.3428,
+          "success_rate": 60.0
+        },
+        {
+          "Machine": "B1_COAT_05",
+          "psn_count": 4,
+          "total": 5,
+          "success": 2,
+          "avg_diff": -0.0488,
+          "avg_pi_after": 0.2758,
+          "success_rate": 40.0
+        },
+        {
+          "Machine": "B1_COAT_02",
+          "psn_count": 4,
+          "total": 5,
+          "success": 2,
+          "avg_diff": 0.015,
+          "avg_pi_after": 0.193,
+          "success_rate": 40.0
+        },
+        {
+          "Machine": "B1_STEP_02",
+          "psn_count": 3,
+          "total": 5,
+          "success": 3,
+          "avg_diff": -0.0474,
+          "avg_pi_after": 0.3216,
+          "success_rate": 60.0
+        },
+        {
+          "Machine": "B1_AGST_03",
+          "psn_count": 2,
+          "total": 4,
+          "success": 3,
+          "avg_diff": -0.1048,
+          "avg_pi_after": 0.226,
+          "success_rate": 75.0
+        },
+        {
+          "Machine": "B1_SCOP_02",
+          "psn_count": 2,
+          "total": 4,
+          "success": 4,
+          "avg_diff": -0.0735,
+          "avg_pi_after": 0.0545,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_SCOP_09",
+          "psn_count": 2,
+          "total": 4,
+          "success": 2,
+          "avg_diff": 0.0352,
+          "avg_pi_after": 0.308,
+          "success_rate": 50.0
+        },
+        {
+          "Machine": "B1_COAT_03",
+          "psn_count": 4,
+          "total": 4,
+          "success": 4,
+          "avg_diff": -0.175,
+          "avg_pi_after": 0.0918,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_DSCM_01",
+          "psn_count": 1,
+          "total": 3,
+          "success": 1,
+          "avg_diff": -0.0187,
+          "avg_pi_after": 0.224,
+          "success_rate": 33.3
+        },
+        {
+          "Machine": "B1_COAT_06",
+          "psn_count": 3,
+          "total": 3,
+          "success": 2,
+          "avg_diff": -0.082,
+          "avg_pi_after": 0.3577,
+          "success_rate": 66.7
+        },
+        {
+          "Machine": "B1_AGST_11",
+          "psn_count": 1,
+          "total": 3,
+          "success": 3,
+          "avg_diff": -0.1113,
+          "avg_pi_after": 0.1603,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_SCOP_03",
+          "psn_count": 2,
+          "total": 3,
+          "success": 2,
+          "avg_diff": -0.0747,
+          "avg_pi_after": 0.3847,
+          "success_rate": 66.7
+        },
+        {
+          "Machine": "B1_OVEN_03",
+          "psn_count": 2,
+          "total": 3,
+          "success": 3,
+          "avg_diff": -0.101,
+          "avg_pi_after": 0.1447,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_WFCL_02",
+          "psn_count": 1,
+          "total": 3,
+          "success": 1,
+          "avg_diff": 0.001,
+          "avg_pi_after": 0.2153,
+          "success_rate": 33.3
+        },
+        {
+          "Machine": "B1_SCOP_04",
+          "psn_count": 1,
+          "total": 3,
+          "success": 2,
+          "avg_diff": -0.0593,
+          "avg_pi_after": 0.241,
+          "success_rate": 66.7
+        },
+        {
+          "Machine": "B1_RESZ_01",
+          "psn_count": 1,
+          "total": 2,
+          "success": 2,
+          "avg_diff": -0.067,
+          "avg_pi_after": 0.047,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_COAT_01",
+          "psn_count": 1,
+          "total": 2,
+          "success": 2,
+          "avg_diff": -0.1275,
+          "avg_pi_after": 0.1925,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_AGST_08",
+          "psn_count": 1,
+          "total": 2,
+          "success": 2,
+          "avg_diff": -0.0565,
+          "avg_pi_after": 0.2125,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_AGST_01",
+          "psn_count": 2,
+          "total": 2,
+          "success": 2,
+          "avg_diff": -0.1605,
+          "avg_pi_after": 0.113,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_SCOP_01",
+          "psn_count": 1,
+          "total": 2,
+          "success": 2,
+          "avg_diff": -0.0545,
+          "avg_pi_after": 0.1855,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_SCOP_06",
+          "psn_count": 1,
+          "total": 2,
+          "success": 2,
+          "avg_diff": -0.193,
+          "avg_pi_after": 0.077,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_STEP_01",
+          "psn_count": 2,
+          "total": 2,
+          "success": 2,
+          "avg_diff": -0.0995,
+          "avg_pi_after": 0.2005,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_RESZ_03",
+          "psn_count": 1,
+          "total": 2,
+          "success": 1,
+          "avg_diff": 0.07,
+          "avg_pi_after": 0.3245,
+          "success_rate": 50.0
+        },
+        {
+          "Machine": "B1_OVEN_04",
+          "psn_count": 1,
+          "total": 2,
+          "success": 2,
+          "avg_diff": -0.0625,
+          "avg_pi_after": 0.1125,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_SCOP_05",
+          "psn_count": 1,
+          "total": 2,
+          "success": 2,
+          "avg_diff": -0.088,
+          "avg_pi_after": 0.299,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_DECM_03",
+          "psn_count": 1,
+          "total": 2,
+          "success": 2,
+          "avg_diff": -0.1445,
+          "avg_pi_after": 0.1,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_AGST_04",
+          "psn_count": 1,
+          "total": 1,
+          "success": 1,
+          "avg_diff": -0.17,
+          "avg_pi_after": 0.116,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_BPHI_02",
+          "psn_count": 1,
+          "total": 1,
+          "success": 1,
+          "avg_diff": -0.184,
+          "avg_pi_after": 0.192,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_AGST_02",
+          "psn_count": 1,
+          "total": 1,
+          "success": 1,
+          "avg_diff": -0.082,
+          "avg_pi_after": 0.12,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_AGST_09",
+          "psn_count": 1,
+          "total": 1,
+          "success": 1,
+          "avg_diff": -0.073,
+          "avg_pi_after": 0.097,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_BPHI_01",
+          "psn_count": 1,
+          "total": 1,
+          "success": 1,
+          "avg_diff": -0.244,
+          "avg_pi_after": 0.182,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_ETCH_04",
+          "psn_count": 1,
+          "total": 1,
+          "success": 0,
+          "avg_diff": 0.033,
+          "avg_pi_after": 0.158,
+          "success_rate": 0.0
+        },
+        {
+          "Machine": "B1_ETCH_03",
+          "psn_count": 1,
+          "total": 1,
+          "success": 0,
+          "avg_diff": -0.013,
+          "avg_pi_after": 0.536,
+          "success_rate": 0.0
+        },
+        {
+          "Machine": "B1_DECM_02",
+          "psn_count": 1,
+          "total": 1,
+          "success": 1,
+          "avg_diff": -0.043,
+          "avg_pi_after": 0.084,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_OVEN_02",
+          "psn_count": 1,
+          "total": 1,
+          "success": 1,
+          "avg_diff": -0.053,
+          "avg_pi_after": 0.121,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_PRRM_05",
+          "psn_count": 1,
+          "total": 1,
+          "success": 1,
+          "avg_diff": -0.185,
+          "avg_pi_after": 0.176,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_PLAT_03",
+          "psn_count": 1,
+          "total": 1,
+          "success": 0,
+          "avg_diff": 0.027,
+          "avg_pi_after": 0.458,
+          "success_rate": 0.0
+        },
+        {
+          "Machine": "B1_OVEN_01",
+          "psn_count": 1,
+          "total": 1,
+          "success": 1,
+          "avg_diff": -0.218,
+          "avg_pi_after": 0.399,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_RESZ_02",
+          "psn_count": 1,
+          "total": 1,
+          "success": 1,
+          "avg_diff": -0.065,
+          "avg_pi_after": 0.229,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_SPUT_02",
+          "psn_count": 1,
+          "total": 1,
+          "success": 0,
+          "avg_diff": -0.014,
+          "avg_pi_after": 0.206,
+          "success_rate": 0.0
+        },
+        {
+          "Machine": "B1_SORT_01",
+          "psn_count": 1,
+          "total": 1,
+          "success": 0,
+          "avg_diff": 0.041,
+          "avg_pi_after": 0.612,
+          "success_rate": 0.0
+        },
+        {
+          "Machine": "B1_SCOP_08",
+          "psn_count": 1,
+          "total": 1,
+          "success": 1,
+          "avg_diff": -0.536,
+          "avg_pi_after": 0.114,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_STEP_04",
+          "psn_count": 1,
+          "total": 1,
+          "success": 1,
+          "avg_diff": -0.121,
+          "avg_pi_after": 0.064,
+          "success_rate": 100.0
+        }
+      ]
+    },
+    "2026-W30": {
+      "kpi": {
+        "total_maintenance": 45,
+        "success_count": 30,
+        "success_rate": 66.7,
+        "worsened_count": 9,
+        "worsened_rate": 20.0,
+        "avg_diff_all": -0.059,
+        "avg_response_hours": 10.5,
+        "avg_diff_success": -0.1013,
+        "best_improvement": -0.275,
+        "best_psn": "B1_DECM_02#LP"
+      },
+      "user_performance": [
+        {
+          "MAINTENANCE_USER": "K2261",
+          "total": 1,
+          "success": 1,
+          "avg_diff": -0.044,
+          "success_rate": 100.0
+        },
+        {
+          "MAINTENANCE_USER": "K22661",
+          "total": 5,
+          "success": 5,
+          "avg_diff": -0.094,
+          "success_rate": 100.0
+        },
+        {
+          "MAINTENANCE_USER": "K24461",
+          "total": 3,
+          "success": 3,
+          "avg_diff": -0.073,
+          "success_rate": 100.0
+        },
+        {
+          "MAINTENANCE_USER": "K22818",
+          "total": 2,
+          "success": 2,
+          "avg_diff": -0.2545,
+          "success_rate": 100.0
+        },
+        {
+          "MAINTENANCE_USER": "F8952",
+          "total": 9,
+          "success": 7,
+          "avg_diff": -0.0658,
+          "success_rate": 77.8
+        },
+        {
+          "MAINTENANCE_USER": "K23831",
+          "total": 3,
+          "success": 2,
+          "avg_diff": -0.0477,
+          "success_rate": 66.7
+        },
+        {
+          "MAINTENANCE_USER": "K24766",
+          "total": 2,
+          "success": 1,
+          "avg_diff": -0.045,
+          "success_rate": 50.0
+        },
+        {
+          "MAINTENANCE_USER": "G1337",
+          "total": 10,
+          "success": 5,
+          "avg_diff": -0.023,
+          "success_rate": 50.0
+        },
+        {
+          "MAINTENANCE_USER": "C4290",
+          "total": 9,
+          "success": 4,
+          "avg_diff": -0.0407,
+          "success_rate": 44.4
+        },
+        {
+          "MAINTENANCE_USER": "K21705",
+          "total": 1,
+          "success": 0,
+          "avg_diff": 0.01,
+          "success_rate": 0.0
+        }
+      ],
+      "method_effectiveness": [
+        {
+          "MAINTENANCE_CONTENT": "用酒精+無塵布清潔Paticle sensor周圍 ",
+          "total": 6,
+          "success": 5,
+          "avg_diff": -0.0858,
+          "success_rate": 83.3
+        },
+        {
+          "MAINTENANCE_CONTENT": "Clean item : IPA clean and removed sensor, inverted it for 5min\ntools: partical measure tools AERO TRAK 9030-01   S/N:93032542012\nmeasure value\n0.3μm:0\n0.5μm:0\n5.0μm:0",
+          "total": 4,
+          "success": 3,
+          "avg_diff": -0.1498,
+          "success_rate": 75.0
+        },
+        {
+          "MAINTENANCE_CONTENT": "用酒精+無塵布清潔Paticle sensor周圍",
+          "total": 32,
+          "success": 21,
+          "avg_diff": -0.0471,
+          "success_rate": 65.6
+        },
+        {
+          "MAINTENANCE_CONTENT": "用酒精+無塵布清潔Paticle sensor周圍\n",
+          "total": 2,
+          "success": 1,
+          "avg_diff": -0.021,
+          "success_rate": 50.0
+        },
+        {
+          "MAINTENANCE_CONTENT": "使用IPA，無塵布清潔Particle",
+          "total": 1,
+          "success": 0,
+          "avg_diff": 0.01,
+          "success_rate": 0.0
+        }
+      ],
+      "Machine_breakdown": [
+        {
+          "Machine": "B1_DEVP_03",
+          "psn_count": 6,
+          "total": 7,
+          "success": 5,
+          "avg_diff": -0.0589,
+          "avg_pi_after": 0.3039,
+          "success_rate": 71.4
+        },
+        {
+          "Machine": "B1_DEVP_04",
+          "psn_count": 4,
+          "total": 4,
+          "success": 4,
+          "avg_diff": -0.0935,
+          "avg_pi_after": 0.172,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_DEVP_01",
+          "psn_count": 3,
+          "total": 3,
+          "success": 0,
+          "avg_diff": 0.007,
+          "avg_pi_after": 0.3077,
+          "success_rate": 0.0
+        },
+        {
+          "Machine": "B1_DEVP_02",
+          "psn_count": 2,
+          "total": 2,
+          "success": 2,
+          "avg_diff": -0.091,
+          "avg_pi_after": 0.3445,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_COAT_04",
+          "psn_count": 2,
+          "total": 2,
+          "success": 1,
+          "avg_diff": -0.0615,
+          "avg_pi_after": 0.1015,
+          "success_rate": 50.0
+        },
+        {
+          "Machine": "B1_SCOP_06",
+          "psn_count": 1,
+          "total": 2,
+          "success": 0,
+          "avg_diff": 0.005,
+          "avg_pi_after": 0.177,
+          "success_rate": 0.0
+        },
+        {
+          "Machine": "B1_SHTZ_01",
+          "psn_count": 2,
+          "total": 2,
+          "success": 1,
+          "avg_diff": 0.0,
+          "avg_pi_after": 0.2005,
+          "success_rate": 50.0
+        },
+        {
+          "Machine": "B1_COAT_03",
+          "psn_count": 2,
+          "total": 2,
+          "success": 2,
+          "avg_diff": -0.081,
+          "avg_pi_after": 0.0905,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_COAT_02",
+          "psn_count": 1,
+          "total": 1,
+          "success": 1,
+          "avg_diff": -0.039,
+          "avg_pi_after": 0.08,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_COAT_07",
+          "psn_count": 1,
+          "total": 1,
+          "success": 1,
+          "avg_diff": -0.044,
+          "avg_pi_after": 0.155,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_COAT_01",
+          "psn_count": 1,
+          "total": 1,
+          "success": 1,
+          "avg_diff": -0.092,
+          "avg_pi_after": 0.103,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_AGST_08",
+          "psn_count": 1,
+          "total": 1,
+          "success": 1,
+          "avg_diff": -0.186,
+          "avg_pi_after": 0.135,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_AGST_03",
+          "psn_count": 1,
+          "total": 1,
+          "success": 0,
+          "avg_diff": 0.16,
+          "avg_pi_after": 0.517,
+          "success_rate": 0.0
+        },
+        {
+          "Machine": "B1_DECM_02",
+          "psn_count": 1,
+          "total": 1,
+          "success": 1,
+          "avg_diff": -0.275,
+          "avg_pi_after": 0.072,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_COAT_05",
+          "psn_count": 1,
+          "total": 1,
+          "success": 1,
+          "avg_diff": -0.106,
+          "avg_pi_after": 0.175,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_COAT_06",
+          "psn_count": 1,
+          "total": 1,
+          "success": 1,
+          "avg_diff": -0.026,
+          "avg_pi_after": 0.167,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_DSCM_01",
+          "psn_count": 1,
+          "total": 1,
+          "success": 0,
+          "avg_diff": 0.0,
+          "avg_pi_after": 0.251,
+          "success_rate": 0.0
+        },
+        {
+          "Machine": "B1_OVEN_04",
+          "psn_count": 1,
+          "total": 1,
+          "success": 1,
+          "avg_diff": -0.051,
+          "avg_pi_after": 0.102,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_RESZ_01",
+          "psn_count": 1,
+          "total": 1,
+          "success": 1,
+          "avg_diff": -0.09,
+          "avg_pi_after": 0.026,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_ETCH_04",
+          "psn_count": 1,
+          "total": 1,
+          "success": 0,
+          "avg_diff": 0.01,
+          "avg_pi_after": 0.232,
+          "success_rate": 0.0
+        },
+        {
+          "Machine": "B1_OVEN_02",
+          "psn_count": 1,
+          "total": 1,
+          "success": 1,
+          "avg_diff": -0.083,
+          "avg_pi_after": 0.138,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_SCOP_02",
+          "psn_count": 1,
+          "total": 1,
+          "success": 1,
+          "avg_diff": -0.201,
+          "avg_pi_after": 0.078,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_RESZ_03",
+          "psn_count": 1,
+          "total": 1,
+          "success": 1,
+          "avg_diff": -0.234,
+          "avg_pi_after": 0.308,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_SCOP_04",
+          "psn_count": 1,
+          "total": 1,
+          "success": 0,
+          "avg_diff": -0.001,
+          "avg_pi_after": 0.241,
+          "success_rate": 0.0
+        },
+        {
+          "Machine": "B1_SCOP_03",
+          "psn_count": 1,
+          "total": 1,
+          "success": 0,
+          "avg_diff": 0.046,
+          "avg_pi_after": 0.505,
+          "success_rate": 0.0
+        },
+        {
+          "Machine": "B1_SCOP_05",
+          "psn_count": 1,
+          "total": 1,
+          "success": 1,
+          "avg_diff": -0.037,
+          "avg_pi_after": 0.31,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_SCOP_07",
+          "psn_count": 1,
+          "total": 1,
+          "success": 0,
+          "avg_diff": 0.027,
+          "avg_pi_after": 0.265,
+          "success_rate": 0.0
+        },
+        {
+          "Machine": "B1_STEP_01",
+          "psn_count": 1,
+          "total": 1,
+          "success": 1,
+          "avg_diff": -0.096,
+          "avg_pi_after": 0.092,
+          "success_rate": 100.0
+        },
+        {
+          "Machine": "B1_STEP_02",
+          "psn_count": 1,
+          "total": 1,
+          "success": 1,
+          "avg_diff": -0.113,
+          "avg_pi_after": 0.226,
+          "success_rate": 100.0
+        }
+      ]
+    }
+  },
+  "history_tables": {
+    "excel_workbook": "history_tables/qa_weekly_history_(Security C).xlsx",
+    "sheets": {
+      "weekly_trend": "weekly_trend_history",
+      "weekly_user_performance": "weekly_user_performance_history",
+      "weekly_method_effectiveness": "weekly_method_effectiveness_history",
+      "weekly_Machine_breakdown": "weekly_Machine_breakdown_history",
+      "Machine_trajectory": "Machine_trajectory_history",
+      "critical_risk": "critical_risk_history"
+    }
+  },
+  "Machine_trajectory": {
+    "improving": [
+      "B1_AGST_01",
+      "B1_AGST_02",
+      "B1_AGST_08",
+      "B1_AGST_09",
+      "B1_COAT_01",
+      "B1_COAT_02",
+      "B1_COAT_03",
+      "B1_COAT_04",
+      "B1_COAT_05",
+      "B1_COAT_06",
+      "B1_COAT_07",
+      "B1_DECM_02",
+      "B1_DECM_03",
+      "B1_DEVP_01",
+      "B1_DEVP_02",
+      "B1_DEVP_03",
+      "B1_DEVP_04",
+      "B1_DSCM_01",
+      "B1_ETCH_04",
+      "B1_OVEN_01",
+      "B1_OVEN_02",
+      "B1_OVEN_04",
+      "B1_PRRM_05",
+      "B1_RESZ_03",
+      "B1_SCOP_02",
+      "B1_SCOP_04",
+      "B1_SCOP_05",
+      "B1_SCOP_07",
+      "B1_SCOP_08",
+      "B1_STEP_02",
+      "B1_STEP_04",
+      "B1_WFCL_02"
+    ],
+    "worsening": [
+      "B1_AGST_03",
+      "B1_AGST_11",
+      "B1_COAT_04",
+      "B1_DEVP_01",
+      "B1_DEVP_03",
+      "B1_DEVP_04",
+      "B1_DSCM_01",
+      "B1_ETCH_04",
+      "B1_SCOP_01",
+      "B1_SCOP_03",
+      "B1_SCOP_04",
+      "B1_SCOP_06",
+      "B1_SCOP_07",
+      "B1_SCOP_09",
+      "B1_WFCL_02"
+    ],
+    "chronic_fail": [
+      "B1_DSCM_01",
+      "B1_ETCH_04",
+      "B1_WFCL_02"
+    ]
+  },
+  "critical_quality_risks": [
+    {
+      "PSN": "B1_COAT_02#1-0",
+      "Machine": "B1_COAT_02",
+      "total_maintenance": 2,
+      "consecutive_fail": 2,
+      "consecutive_worsen": 2,
+      "last_event": "2026-07-18",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "PSN": "B1_COAT_05#11-0",
+      "Machine": "B1_COAT_05",
+      "total_maintenance": 3,
+      "consecutive_fail": 2,
+      "consecutive_worsen": 2,
+      "last_event": "2026-07-18",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "PSN": "B1_COAT_07#HP",
+      "Machine": "B1_COAT_07",
+      "total_maintenance": 2,
+      "consecutive_fail": 2,
+      "consecutive_worsen": 2,
+      "last_event": "2026-07-17",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "PSN": "B1_DEVP_03#12-1",
+      "Machine": "B1_DEVP_03",
+      "total_maintenance": 2,
+      "consecutive_fail": 2,
+      "consecutive_worsen": 2,
+      "last_event": "2026-07-18",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "PSN": "B1_DEVP_03#14-1",
+      "Machine": "B1_DEVP_03",
+      "total_maintenance": 3,
+      "consecutive_fail": 2,
+      "consecutive_worsen": 2,
+      "last_event": "2026-07-20",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "PSN": "B1_ETCH_04#LP",
+      "Machine": "B1_ETCH_04",
+      "total_maintenance": 4,
+      "consecutive_fail": 3,
+      "consecutive_worsen": 2,
+      "last_event": "2026-07-20",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "PSN": "B1_OVEN_02#OVEN2",
+      "Machine": "B1_OVEN_02",
+      "total_maintenance": 2,
+      "consecutive_fail": 2,
+      "consecutive_worsen": 2,
+      "last_event": "2026-07-12",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "PSN": "B1_SCOP_09#ST",
+      "Machine": "B1_SCOP_09",
+      "total_maintenance": 2,
+      "consecutive_fail": 2,
+      "consecutive_worsen": 2,
+      "last_event": "2026-07-18",
+      "risk_level": "CRITICAL"
+    },
+    {
+      "PSN": "B1_STEP_02#LP",
+      "Machine": "B1_STEP_02",
+      "total_maintenance": 4,
+      "consecutive_fail": 2,
+      "consecutive_worsen": 2,
+      "last_event": "2026-07-20",
+      "risk_level": "CRITICAL"
+    }
+  ]
+}
